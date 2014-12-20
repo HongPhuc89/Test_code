@@ -1,0 +1,15 @@
+V3 7
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai2_3/bai2_3.vhd" 2014/12/20.16:39:29 K.31
+EN work/bai2_3 1419068374 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai2_3/bai2_3.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/bai2_3/behavior 1419068375 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai2_3/bai2_3.vhd" \
+      EN work/bai2_3 1419068374 CP d_flip_flop
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai2_3/d_flip_flop.vhd" 2014/12/20.16:31:34 K.31
+EN work/d_flip_flop 1419068372 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai2_3/d_flip_flop.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/d_flip_flop/behavior 1419068373 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai2_3/d_flip_flop.vhd" \
+      EN work/d_flip_flop 1419068372

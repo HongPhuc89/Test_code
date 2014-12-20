@@ -1,0 +1,2 @@
+vhdl work "../Code/bai2_3/d_flip_flop.vhd"
+vhdl work "../Code/bai2_3/bai2_3.vhd"
