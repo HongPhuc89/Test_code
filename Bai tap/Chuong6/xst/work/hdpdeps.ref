@@ -1,0 +1,18 @@
+V3 9
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_1a.vhd" 2014/12/26.13:49:17 K.31
+EN work/bai6_1a 1419576562 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_1a.vhd" \
+      PB ieee/std_logic_1164 1200023565 PB ieee/STD_LOGIC_UNSIGNED 1200023567
+AR work/bai6_1a/behavior 1419576563 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_1a.vhd" EN work/bai6_1a 1419576562
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_1b.vhd" 2014/12/26.13:52:16 K.31
+EN work/bai6_1b 1419576766 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_1b.vhd" \
+      PB ieee/std_logic_1164 1200023565 PB ieee/STD_LOGIC_UNSIGNED 1200023567
+AR work/bai6_1b/behavior 1419576767 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_1b.vhd" EN work/bai6_1b 1419576766
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_2.vhd" 2014/12/26.12:50:35 K.31
+EN work/bai6_2 1419573039 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_2.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/bai6_2/behavior 1419573040 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai6_2.vhd" EN work/bai6_2 1419573039

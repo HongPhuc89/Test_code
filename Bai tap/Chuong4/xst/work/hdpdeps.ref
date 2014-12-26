@@ -1,0 +1,11 @@
+V3 6
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai4_1.vhd" 2014/12/26.12:29:30 K.31
+EN work/bai4_1 1419571837 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai4_1.vhd" \
+      PB ieee/std_logic_1164 1200023565 PH ieee/NUMERIC_STD 1200023568
+AR work/bai4_1/behavior 1419571838 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai4_1.vhd" EN work/bai4_1 1419571837
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai4_3.vhd" 2014/12/26.12:37:16 K.31
+EN work/bai4_3 1419572240 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai4_3.vhd" \
+      PB ieee/std_logic_1164 1200023565 PH ieee/NUMERIC_STD 1200023568
+AR work/bai4_3/behavior 1419572241 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai4_3.vhd" EN work/bai4_3 1419572240
