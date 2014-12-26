@@ -1,7 +1,7 @@
 V3 3
-FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai3_123.vhd" 2014/12/25.01:01:31 K.31
-EN work/bai3_123 1419444094 \
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai3_123.vhd" 2014/12/26.11:29:52 K.31
+EN work/bai3_123 1419568197 \
       FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai3_123.vhd" \
-      PB ieee/std_logic_1164 1200023565
-AR work/bai3_123/behavior 1419444095 \
-      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai3_123.vhd" EN work/bai3_123 1419444094
+      PB ieee/std_logic_1164 1200023565 PH ieee/NUMERIC_STD 1200023568
+AR work/bai3_123/behavior 1419568198 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai3_123.vhd" EN work/bai3_123 1419568197

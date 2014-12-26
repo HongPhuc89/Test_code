@@ -1,0 +1,24 @@
+V3 13
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_1.vhd" 2014/12/26.12:08:59 K.31
+EN work/bai5_1 1419570544 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_1.vhd" \
+      PB ieee/std_logic_1164 1200023565 PH ieee/NUMERIC_STD 1200023568
+AR work/bai5_1/behavior 1419570545 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_1.vhd" EN work/bai5_1 1419570544
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_2.vhd" 2014/12/26.12:21:39 K.31
+EN work/bai5_2 1419571307 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_2.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/bai5_2/behavior 1419571308 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_2.vhd" EN work/bai5_2 1419571307 \
+      CP bai5_2_sub
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_2_sub.vhd" 2014/12/26.12:16:06 K.31
+EN work/bai5_2_sub 1419571305 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_2_sub.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/bai5_2_sub/behavior 1419571306 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_2_sub.vhd" \
+      EN work/bai5_2_sub 1419571305
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_3.vhd" 2014/12/26.12:24:36 K.31
+EN work/bai5_3 1419571481 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_3.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/bai5_3/behavior 1419571482 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai5_3.vhd" EN work/bai5_3 1419571481
