@@ -1,0 +1,16 @@
+V3 9
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_1.vhd" 2014/12/26.14:39:15 K.31
+EN work/bai7_1 1419579558 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_1.vhd" \
+      PB ieee/std_logic_1164 1200023565 PB ieee/STD_LOGIC_UNSIGNED 1200023567
+AR work/bai7_1/Behavioral 1419579559 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_1.vhd" EN work/bai7_1 1419579558
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_7.vhd" 2014/12/26.14:53:13 K.31
+EN work/bai7_7 1419580419 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_7.vhd" \
+      PB ieee/std_logic_1164 1200023565 PB ieee/STD_LOGIC_UNSIGNED 1200023567
+AR work/bai7_7/Behavioral 1419580420 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_7.vhd" EN work/bai7_7 1419580419
+FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_8.vhd" 2014/12/26.15:31:54 K.31
+EN work/bai7_8 1419582731 FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_8.vhd" \
+      PB ieee/std_logic_1164 1200023565
+AR work/bai7_8/rtl 1419582732 \
+      FL "D:/WorkSpace/Learning/VHDL/Bai tap/Code/bai7_8.vhd" EN work/bai7_8 1419582731
